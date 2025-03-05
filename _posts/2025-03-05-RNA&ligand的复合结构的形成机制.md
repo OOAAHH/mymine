@@ -1,3 +1,9 @@
+---
+layout: post
+title: "思考RNA-ligand体现了哪些规律？以及如何评估它们？"
+categories: think
+---
+
 考虑以下四个问题
 1. **RNA-ligand 结合的物理化学基础**——研究 RNA-ligand 结合是否主要受极性键驱动，以及其他重要的相互作用。
 2. **RNA-ligand 结合的结构特征**——RNA 是否预先形成 binding pocket，或 ligand 是否参与 pocket 的形成。
