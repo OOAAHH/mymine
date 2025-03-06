@@ -4,12 +4,6 @@ title: "Polar Contacts and RNA-Ligand Structural Similarity"
 categories: think
 ---
 
-1. **关于极性接触作为评估 RNA-ligand 复合结构相似度的可靠性**——我会查找相关研究，探讨氢键等极性接触是否能稳定地反映 RNA-ligand 结合模式，并比较其与其他相似度评估标准（如 RMSD）的相关性。
-
-2. **RNA-ligand 结合评分方法的对比**——我会调查 docking scores（如 AutoDock, Glide）与 contact-based 评分方法的相对表现，分析它们在 RNA-ligand 结合评估中的准确性、优缺点，并查找相关 benchmark 研究。
-
-
-
 # Polar Contacts and RNA-Ligand Structural Similarity
 
 ## Role of Hydrogen Bonds and Polar Interactions in RNA-Ligand Binding  
