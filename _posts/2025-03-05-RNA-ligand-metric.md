@@ -88,8 +88,6 @@ categories: think
 
 **参考文献：**
 
-1. Padroni, G. et al. *Analysis of RNA-small molecule interactions in the PDB.* **(假设性参考)**
-
 2.  ([
             Systematic analysis of the interactions driving small molecule–RNA recognition - PMC
         ](https://pmc.ncbi.nlm.nih.gov/articles/PMC7549050/#:~:text=this%20analysis%20with%20previously%20determined,of%20small%20molecules%20targeting%20RNA)) ([
