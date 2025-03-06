@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "思考RNA-ligand体现了哪些规律？以及如何评估它们？"
+title: "HowtoevoluteRNA-ligand"
 categories: think
 ---
 
